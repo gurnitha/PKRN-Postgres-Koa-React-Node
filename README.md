@@ -32,6 +32,29 @@
 
         1. Create src, build folders
         2. Setup them in tsconfig.json file
-        
+
         modified:   README.md
         modified:   tsconfig.json
+
+
+#### 1.4 Create index.ts file and how to execute it
+        
+        Activities:
+
+        1. Install modules
+
+        λ npm install -g ts-node typescript
+
+        2. Execute index.ts inside src folder
+
+        λ ts-node .\src\index.ts
+
+        3. Execute ts
+
+        λ tsc
+
+        4. Execute index.js inside build folder
+
+        λ node .\build\index.js 
+
+
