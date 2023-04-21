@@ -1,0 +1,27 @@
+{
+  "name": "pkrn-postgres-koa-react-node",
+  "version": "1.0.0",
+  "description": "[Github Repo](https://github.com/gurnitha/PKRN-Postgres-Koa-React-Node)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurnitha/PKRN-Postgres-Koa-React-Node.git"
+  },
+  "keywords": [
+    "postgres, koa, react, node, typescript"
+  ],
+  "author": "i nyoman gurnitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurnitha/PKRN-Postgres-Koa-React-Node/issues"
+  },
+  "homepage": "https://github.com/gurnitha/PKRN-Postgres-Koa-React-Node#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.13",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
